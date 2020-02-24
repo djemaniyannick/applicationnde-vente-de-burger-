@@ -1,4 +1,4 @@
-# Application de Burger menu  ayant une partir admin et client
+# apllication web dynamique de gestion de Burger menu  ayant une partir admin et client
 
 # Technologie utiliser :
 - Html, css, Boostrap , Php , Mysql 
